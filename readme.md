@@ -1,4 +1,4 @@
-Para compilar el contenido `Open Terminal` y luego escribir el comando `build-content`
+Para compilar el contenido `Open Terminal` y luego escribir el comando `npm run build:content`
 
 ## Organizacion de archivos de `public`:
 
