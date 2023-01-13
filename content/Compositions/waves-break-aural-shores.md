@@ -5,7 +5,7 @@ duration: 10 min
 slug: waves-break-aural-shores
 mp3: waves.mp3_DESCRIPTION_New Thread Quartet
 image: waves-pic.png
-img_width: 400
+img_width: 250
 pdf: waves-score.pdf_DESCRIPTION_Waves Break Aural Shores (portrait of Puerto Marqués)
 year: 2018
 creation_date: 2018-02-06
