@@ -10,4 +10,4 @@ description:
 location: 
 ---
 
-I am excited to announce that I have joined the School of Music and Dance at San José State University, in San José, California. As an Assistant Professor, I will be teaching composition, electronic music, and theory. Additionally, with the help of my colleagues, Pablo Furman and Fred Cohen, I will be developing a new degree in Music Technology. I will be announcing our progress as we launch courses and, ultimately, the degree. I am very happy to be moving back to the Bay Area and reconnect with friends, collaborators, and the amazing music scene!
+I am excited to announce that I have joined the School of Music and Dance at San José State University, in San José, California. As an Assistant Professor, I am teaching composition, electronic music, and theory. Additionally, with the help of my colleagues, Pablo Furman and Fred Cohen, I will be developing a new degree in Music Technology. I will be announcing our progress as we launch courses and, ultimately, the degree. I am very happy to be back in the Bay Area with friends, collaborators, and the amazing music scene!
