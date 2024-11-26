@@ -6,7 +6,7 @@ slug: night-music-composition
 mp3: nightmusic.mp3_DESCRIPTION_Splinter Reeds abbreviated album version$ night-music-field-recording.mp3_DESCRIPTION_original summer dusk forest recording
 image: night-music-pic.jpg
 img_width: 400
-pdf: night-music-score.pdf_DESCRIPTION_Night music (for Splinter Reeds)
+pdf: night-music-score.pdf_DESCRIPTION_Night Music—abbreviated version—(for Splinter Reeds) $ night-music-full-score.pdf_DESCRIPTION_Night Music—full version—(for Splinter Reeds)
 year: 2019
 creation_date: 2019-02-06
 instrumentation: (ob., cl., alto sax, bass cl., bn., electronics)
