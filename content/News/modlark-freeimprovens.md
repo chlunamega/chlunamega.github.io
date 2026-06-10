@@ -4,7 +4,7 @@ published_date: 2026-04-26
 slug: modlark-freeimprovens
 showable_date: 04.13.2026
 title: Mobile Device and Laptop Orchestra (ModLark) and Free Improvisation Ensemble live at SJSU, School of Music
-image: _MG_8765.jpg, _MG_8831.jpg, _MG_8889.jpg, _MG8919.jpg, _MG_8935.jpg
+image: 8765.jpg, 8831.jpg, 8889.jpg, 8919.jpg, 8935.jpg
 img_width: 200
 description: 
 location: 
