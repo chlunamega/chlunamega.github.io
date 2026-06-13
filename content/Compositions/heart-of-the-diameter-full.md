@@ -1,7 +1,7 @@
 ---
 title: Heart of the Diameter  
 subtitle: (fl., sopr. sax, bari. sax, vl., perc., electronics)
-duration: 32' 15"
+duration: "32' 15\""
 slug: heart-of-the-diameter-full
 image: NGC-188.png
 img_width: 400
@@ -11,21 +11,21 @@ creation_date: 2024-04-20
 instrumentation: (fl., sopr. sax, bari. sax, vl., perc., electronics)
 performances: April 20, 2024. San José City Hall's Rotunda 
 premiere: San José City Hall Rotunda
-youtube: GUWAwZX4qIc
+youtube: 0S1dpOJI0Kw
 ---
 
 Performers: Ráyo Furuta, flute; Michael Hernandez, soprano saxophone; Aaron Lington, baritone saxophone; Catalina Barraza, violin; Pablo Furman, percussion; Christopher Luna-Mega, electronics
 
-I. Spectral Swell (00:00)
-II. Synchronicities (04:20)
-Interlude: Stop Sign (09:15)
-III. Rhythmic Swell (10:15)
-Interlude: Flicker (12:55)
-IV. Wide Fields (14:20)
-Interlude: Cluster (19:10)
-V. Heterophonic Canon (20:05)
-Interlude: BART (25:20)
-VI. Responsorial (28:15)
+I. Spectral Swell (00:00)<br>
+II. Synchronicities (04:20)<br>
+Interlude: Stop Sign (09:15)<br>
+III. Rhythmic Swell (10:15)<br>
+Interlude: Flicker (12:55)<br>
+IV. Wide Fields (14:20)<br>
+Interlude: Cluster (19:10)<br>
+V. Heterophonic Canon (20:05)<br>
+Interlude: BART (25:20)<br>
+VI. Responsorial (28:15)<br>
 VII. Postlude (30:25)
 
 Conceived for performance in resonant architectural spaces, Heart of the Diameter explores relationships between harmonic spectra, environmental sound, spatial listening, and collective musical behavior. 
