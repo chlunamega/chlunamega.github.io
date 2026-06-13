@@ -3,7 +3,7 @@ title: Heart of the Diameter (fragment)
 subtitle: (electronics/percussion interlude fragment for San José City Hall's Sonic Runway)
 duration: 6'
 slug: heart-of-the-diameter
-image: NGC-188.png
+image: runway.tiff
 img_width: 400
 year: 2026
 creation_date: 2024-04-20
