@@ -33,3 +33,8 @@ Conceived for performance in resonant architectural spaces, Heart of the Diamete
 All pitch content is derived from the first forty harmonics of a low B-flat fundamental, creating a microtonal harmonic environment that evolves through three distinct spectral regions. Electronic sounds function as both acoustic extensions and independent agents, variously doubling instrumental lines, projecting synthesized harmonic spectra, and introducing field recordings captured in the Bay Area, including resonant stop-sign vibrations and sounds from the Bay Area Rapid Transit system. These environmental materials blur distinctions between musical structure and everyday sonic experience.
 
 Premiered in the Rotunda of San José City Hall, Heart of the Diameter was designed around the site's acoustic and architectural properties, with performers positioned throughout the space rather than on a conventional stage. Through processes of spatial displacement, heterophony, resonance, and gradual transformation, the work invites listeners to experience sound as a dynamic environment rather than a fixed musical object.
+
+<p style="margin: 1.5rem 0 0.5rem; font-style: italic;">Listen with Holography interactive audio</p>
+<div style="margin: 0 0 1.5rem;">
+<iframe src="https://holographystrg.z13.web.core.windows.net/WebNative/?track=heart-of-the-diameter" title="Heart of the Diameter interactive screen" style="width: 100%; min-height: 760px; border: 0; border-radius: 8px; background: #000;" allow="fullscreen" loading="lazy"></iframe>
+</div>
