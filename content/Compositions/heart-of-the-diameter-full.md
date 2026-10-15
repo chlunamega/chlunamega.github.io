@@ -34,7 +34,7 @@ All pitch content is derived from the first forty harmonics of a low B-flat fund
 
 Premiered in the Rotunda of San José City Hall, Heart of the Diameter was designed around the site's acoustic and architectural properties, with performers positioned throughout the space rather than on a conventional stage. Through processes of spatial displacement, heterophony, resonance, and gradual transformation, the work invites listeners to experience sound as a dynamic environment rather than a fixed musical object.
 
-<p style="margin: 1.5rem 0 0.5rem; font-style: italic;">Listen with Holography interactive audio</p>
+*Listen with Holography interactive audio*
 <div style="margin: 0 0 1.5rem;">
 <iframe src="https://holographystrg.z13.web.core.windows.net/WebNative/?track=heart-of-the-diameter" title="Heart of the Diameter interactive screen" style="width: 100%; min-height: 760px; border: 0; border-radius: 8px; background: #000;" allow="fullscreen" loading="lazy"></iframe>
 </div>
